@@ -1,4 +1,4 @@
-# Multiple server with infinite capacity - (M/M/c):(oo/FIFO)
+# EXP-5 Multiple server with infinite capacity - (M/M/c):(oo/FIFO)
 # Developed by: Kailash Kumar S
 # Register number: 212223220041
 ## Aim :
